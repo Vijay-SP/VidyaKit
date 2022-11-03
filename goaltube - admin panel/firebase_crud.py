@@ -8,6 +8,7 @@ cred = credentials.Certificate('firebase-private-key.json')
 default_app = firebase_admin.initialize_app(cred)
 db = firestore.client()
 
+
 def fetchUsers():
     users_ref = db.collection("Users")
     usersStream = users_ref.stream()
@@ -31,8 +32,7 @@ def approveCourse(email, index, value):
     db.collection("Users").document(email).update({
         "courses": updatedArray
     })
-    if(value == '1'):
-        db.collection("Courses").document(index).update({
-            "courses": firestore.ArrayUnion([user['courses'][int(index)]])
-        })
-
+    # if(value == '1'):
+    #     db.collection("Courses").document(index).update({
+    #         "courses": firestore.ArrayUnion([user['courses'][int(index)]])
+    #     })
