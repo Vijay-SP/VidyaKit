@@ -1,13 +1,13 @@
-# GoalTube - Get Certified to Watch YouTube!
+# Edu-Tor - Get Certified to Watch YouTube!
 ## AI platform to get credibility by watching Youtube Tutorial Videos
 
 ### Team name: Dark Coders
 
 ## Team members
-* Abhay Ubhale - abhayubhale.30@gmail.com
-* Vijay Prajapati - vijayprajapati6350@gmail.com
-* Om Jadhav - omjadhav963@gmail.com
-* Hasnain Sayyed - hasnainsayyed833@gmail.com
+* Vijay Prajapati
+* Deon Gracias 
+* Ivan Dsilva 
+* Rahul Bothra 
 
 
 ## Description
