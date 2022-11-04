@@ -21,12 +21,6 @@
 * If a user believes that a question or answer is incorrect, they can report it to the admin panel, and the admin panel will investigate further.
 * If the user receives a certain number of passing points at the end of all videos and quizzes, they will be certified for that course.
 
-## Links
-* GitHub Repo link: [Link to repository](https://github.com/Hasnain01-hub/GoalTube)
-* Admin Panel: [Website Link to admin panel](https://goaltube-sih-hackathon.herokuapp.com)
-* Admin Panel Github Repository(with Flutter set in it): [Admin Panel Code](https://github.com/Hasnain01-hub/GoalTube)
-* ML Model for genearting questions: [ML Model code](https://github.com/Krishna26Ashar/GoalTube---ML-Model-for-generating-Questionnaire)
-
 ## Technology stack
 
 Tools and technologies that you learnt and used in the project.
